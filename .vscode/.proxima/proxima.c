@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("My name is Mohammed Fawzan");
+    int age = 20;
+    printf("%d",age);
     return 0;
 }
